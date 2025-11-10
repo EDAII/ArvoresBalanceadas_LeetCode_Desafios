@@ -18,9 +18,9 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ## Capturas de tela
 
-### Exercício 01 - Difícil - 
+### Exercício 01 - Difícil - 732. My Calendar III
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/732_screenshot.png)
 
 ### Exercício 02 - Difícil - 
 
