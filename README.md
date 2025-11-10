@@ -14,7 +14,7 @@ Sobre a realização do trabalho, cada exercício contém seu código resposta, 
 
 ## Guia de instalação
 
-Utilizamos Python para resolver os desafios. 
+Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ## Capturas de tela
 
@@ -26,9 +26,9 @@ Utilizamos Python para resolver os desafios.
 
 ![Screenshot do exercício](assets/)
 
-### Exercício 03 - Médio - 
+### Exercício 03 - Médio - 1382. Balance a Binary Search Tree
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/1382_screenshot.png)
 
 ### Exercício 04 - Médio - 
 
