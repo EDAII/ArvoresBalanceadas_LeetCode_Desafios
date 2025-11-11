@@ -36,7 +36,7 @@ Alguns exercícios foram resolvidos em Python e outros em Java.
 
 ## Vídeo de apresentação do Trabalho 3
 
-[Link da apresentação do Trabalho 3]()
+[Link da apresentação do Trabalho 3](https://www.youtube.com/watch?v=pZomP2sFh9w)
 
 ## Verificação
 
